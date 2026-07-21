@@ -1,0 +1,264 @@
+{
+  "_class-manager-Bbo_SLOz.js": {
+    "file": "assets/class-manager-Bbo_SLOz.js",
+    "name": "class-manager"
+  },
+  "_classroom-local-provider-CwwATiE0.js": {
+    "file": "assets/classroom-local-provider-CwwATiE0.js",
+    "name": "classroom-local-provider"
+  },
+  "_framework-CXnKph_e.js": {
+    "file": "assets/framework-CXnKph_e.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js"
+    ]
+  },
+  "_melody-quantization-CJR-SfHI.js": {
+    "file": "assets/melody-quantization-CJR-SfHI.js",
+    "name": "melody-quantization"
+  },
+  "_pitch-detection-DcDbp2i6.js": {
+    "file": "assets/pitch-detection-DcDbp2i6.js",
+    "name": "pitch-detection"
+  },
+  "_query-BJE92B27.js": {
+    "file": "assets/query-BJE92B27.js",
+    "name": "query"
+  },
+  "_rhythm-scoring-4t7g5mY1.js": {
+    "file": "assets/rhythm-scoring-4t7g5mY1.js",
+    "name": "rhythm-scoring"
+  },
+  "_rolldown-runtime-S-ySWqyJ.js": {
+    "file": "assets/rolldown-runtime-S-ySWqyJ.js",
+    "name": "rolldown-runtime"
+  },
+  "_task-manager-LJzPAxab.js": {
+    "file": "assets/task-manager-LJzPAxab.js",
+    "name": "task-manager"
+  },
+  "app/components/ClassroomExtras.tsx": {
+    "file": "assets/ClassroomExtras-h-VIy2s0.js",
+    "name": "ClassroomExtras",
+    "src": "app/components/ClassroomExtras.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js",
+      "_classroom-local-provider-CwwATiE0.js"
+    ]
+  },
+  "app/components/ClassroomSystemV2.tsx": {
+    "file": "assets/ClassroomSystemV2-BOHJRldA.js",
+    "name": "ClassroomSystemV2",
+    "src": "app/components/ClassroomSystemV2.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js",
+      "_classroom-local-provider-CwwATiE0.js"
+    ]
+  },
+  "app/components/CreateStudio.tsx": {
+    "file": "assets/CreateStudio-DInSGWKp.js",
+    "name": "CreateStudio",
+    "src": "app/components/CreateStudio.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js",
+      "_melody-quantization-CJR-SfHI.js",
+      "_pitch-detection-DcDbp2i6.js"
+    ]
+  },
+  "app/components/MoodStudio.tsx": {
+    "file": "assets/MoodStudio-DZHtfpDd.js",
+    "name": "MoodStudio",
+    "src": "app/components/MoodStudio.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js",
+      "_pitch-detection-DcDbp2i6.js"
+    ]
+  },
+  "app/components/MusicLab.tsx": {
+    "file": "assets/MusicLab-RbZiMlR_.js",
+    "name": "MusicLab",
+    "src": "app/components/MusicLab.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js",
+      "_pitch-detection-DcDbp2i6.js"
+    ]
+  },
+  "app/components/RhythmTrainer.tsx": {
+    "file": "assets/RhythmTrainer-i18DsVYA.js",
+    "name": "RhythmTrainer",
+    "src": "app/components/RhythmTrainer.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js",
+      "_rhythm-scoring-4t7g5mY1.js"
+    ]
+  },
+  "app/components/RuralMusicApp.tsx": {
+    "file": "assets/RuralMusicApp-BQlWep1a.js",
+    "name": "RuralMusicApp",
+    "src": "app/components/RuralMusicApp.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js",
+      "_melody-quantization-CJR-SfHI.js",
+      "_pitch-detection-DcDbp2i6.js",
+      "_rhythm-scoring-4t7g5mY1.js"
+    ]
+  },
+  "app/components/StudentClassJoin.tsx": {
+    "file": "assets/StudentClassJoin-CwtJiexH.js",
+    "name": "StudentClassJoin",
+    "src": "app/components/StudentClassJoin.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js",
+      "_class-manager-Bbo_SLOz.js"
+    ]
+  },
+  "app/components/StudentProfile.tsx": {
+    "file": "assets/StudentProfile-DOryCuTM.js",
+    "name": "StudentProfile",
+    "src": "app/components/StudentProfile.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "app/components/TeacherClassManager.tsx": {
+    "file": "assets/TeacherClassManager-eNsGiLJO.js",
+    "name": "TeacherClassManager",
+    "src": "app/components/TeacherClassManager.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js",
+      "_class-manager-Bbo_SLOz.js"
+    ]
+  },
+  "app/components/TeacherDashboard.tsx": {
+    "file": "assets/TeacherDashboard-DH8Qr6iT.js",
+    "name": "TeacherDashboard",
+    "src": "app/components/TeacherDashboard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "app/components/TeacherTaskCreator.tsx": {
+    "file": "assets/TeacherTaskCreator-CxEk6jLE.js",
+    "name": "TeacherTaskCreator",
+    "src": "app/components/TeacherTaskCreator.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js",
+      "_task-manager-LJzPAxab.js"
+    ]
+  },
+  "app/components/TeacherTaskManager.tsx": {
+    "file": "assets/TeacherTaskManager-CFuohFjR.js",
+    "name": "TeacherTaskManager",
+    "src": "app/components/TeacherTaskManager.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js",
+      "_task-manager-LJzPAxab.js"
+    ]
+  },
+  "app/teacher/mood-care/page.tsx": {
+    "file": "assets/page-CNx9oLih.js",
+    "name": "page",
+    "src": "app/teacher/mood-care/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "assets/layout-segment-context-CaWD_lMN.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/router.js": {
+    "file": "assets/router-CTeZX7yG.js",
+    "name": "router",
+    "src": "node_modules/vinext/dist/shims/router.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-CXnKph_e.js",
+      "_query-BJE92B27.js"
+    ],
+    "dynamicImports": [
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "src/components/learning/LearningExperience.tsx": {
+    "file": "assets/LearningExperience-BViADGqs.js",
+    "name": "LearningExperience",
+    "src": "src/components/learning/LearningExperience.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-CXnKph_e.js",
+      "_query-BJE92B27.js"
+    ],
+    "dynamicImports": [
+      "node_modules/vinext/dist/shims/router.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "assets/index-DFtEXY6D.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js"
+    ],
+    "dynamicImports": [
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/components/TeacherTaskManager.tsx",
+      "app/components/TeacherClassManager.tsx",
+      "app/components/TeacherTaskCreator.tsx",
+      "app/teacher/mood-care/page.tsx",
+      "app/components/RuralMusicApp.tsx",
+      "app/components/TeacherDashboard.tsx",
+      "virtual:vinext-app-browser-entry",
+      "app/components/CreateStudio.tsx",
+      "src/components/learning/LearningExperience.tsx",
+      "app/components/StudentProfile.tsx",
+      "app/components/ClassroomSystemV2.tsx",
+      "app/components/StudentClassJoin.tsx",
+      "app/components/MoodStudio.tsx",
+      "app/components/ClassroomExtras.tsx",
+      "app/components/RhythmTrainer.tsx",
+      "app/components/MusicLab.tsx"
+    ]
+  }
+}
